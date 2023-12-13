@@ -9,7 +9,7 @@
 ---
 
 ## More notes
-> link to website: 
+> link to website: https://trpl-a.github.io/Web_business_website
 ---
 
 ### Webpages
@@ -21,3 +21,4 @@
         * 404.html
 ---
 
+![image](https://github.com/trpl-A/Web_business_website/assets/126344248/40267442-e0bf-4fe2-999a-991f32c0ca42)
