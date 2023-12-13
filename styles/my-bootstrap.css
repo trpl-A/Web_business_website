@@ -1,0 +1,159 @@
+/* BOOTSTRAP */
+
+/* NAVBAR */
+/* .nav-item dropdown */
+.dropdown-menu{
+    background-color: black;
+}
+
+.dropdown-item{
+    color:white; 
+}
+
+/* ================================================== */
+
+/* CARDS*/
+.bg-body-secondary {
+    padding: 0;
+}
+
+
+/* .card-group {
+    /* background-color: yellow;  
+    margin-bottom: 30px; 
+}
+*/
+
+/* .card-group:hover {
+    box-shadow: 1px 1px 10px yellow;
+} */
+
+.card-group img {
+    border: none;
+    border-radius: 30px;
+
+    /* width: 100%; */
+    height: 240px;
+    /* width: 290px; */
+    /* height: 190px; */
+    object-fit: cover;
+}
+
+.card {
+    /* box-shadow: 1px 1px 10px black; */
+    background-color: white;
+    color: black;
+
+    margin: 7vh 30px;
+    /* margin: 50px 30px; */
+    /* padding: 10px; */
+    border: none;
+    /* border-radius: 10px; */
+
+    /* border: 2px solid black; */
+    border-radius: 0px;
+    transition: 700ms ease;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.card img{
+    object-fit: cover;
+}
+
+.card button {
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+/* card-body */
+.card-body {
+    padding: 20px;
+}
+
+.card-title,
+.card-text {
+    text-align: center;
+    margin:0;
+    padding:0;
+}
+
+/* ================================================== */
+
+/* SIDE CARD */
+.bg-body-secondary {
+    background-color: rgb(202, 132, 2) !important;
+    padding: 10px 20px;
+    margin: 10vh 5vh;
+    /* margin-bottom: 10vh; */
+    /* height: 80vh; */
+    width: 80vw;
+}
+
+.w-100 {
+    width: 90% !important;
+    height: 70vh;
+    /* height: 100%; */
+    object-fit: cover;
+
+    margin: 20px 0;
+    /* margin: 30px 10px; */
+}
+
+/* ================================================== */
+
+/* FORMS */
+.form-floating {
+    margin: 10px;
+}
+
+.form-control {
+    width: fit-content;
+    /* margin: 10px; */
+}
+
+.form-control:focus {
+    border: 1px solid blue;
+}
+
+/* ================================================== */
+
+/* MODAL */
+/* #exampleModal {
+    background-color: black;
+} */
+
+/* modal-btn */
+
+/* modal */
+.modal-content {
+    /* background-color: olive; */
+    /* color: white; */
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+}
+
+/* .modal-header {
+    font-family: 'Quicksand', sans-serif;
+} */
+
+/* 
+.modal-footer {
+    background-color: black;
+}  */
+
+/* .modal-body {
+    background-color: black;
+} */
+
+
+/* ================================================== */
+/* cart icon */
+.bi-cart {
+    width: 40px;
+    height: 40px;
+}
+
+/* ================================================== */

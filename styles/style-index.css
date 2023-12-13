@@ -1,0 +1,156 @@
+
+/* common */
+/* :root {} */
+/* ============================================ */
+
+
+/* HEADER */
+header {
+    background-image: url("./images/bg.jpg");  
+}
+
+header .overlay {
+    opacity: 0.85;
+}
+
+header h1 {
+    font-family: "Quicksand";
+    border: 3px solid white;
+    text-align: center;
+    margin: 0 30px;
+    transition: 400ms ease;
+}
+
+header img{
+    width:500px;
+    height:500px;
+    object-fit: cover;
+}
+/* ============================================ */
+
+/* MAIN */
+main {
+    background-color: lightgrey;
+    /* opacity: 0.5; */
+}
+/* ---------------------------- */
+
+main h2 {
+    font-size: 42px;
+    font-weight: 100;
+    text-align: center;
+    margin-top:10px;
+
+    /* padding: 5px 0; */
+    color: blue;
+}
+
+
+main h3{
+    margin:0;
+    margin-top:40px;
+
+    text-align: center;
+    font-weight: 700;
+}
+
+main p {
+    line-height: 1.3rem;
+    font-size: 20px;
+    font-weight: 100;
+    margin:10px 0 20px 0;
+
+    font-family: 'Quicksand', sans-serif;
+}
+
+main .intro{
+    text-align: center;
+}
+
+/* ---------------------------- */
+
+
+.card-group img {
+    border: 1px solid black;
+    border-radius: 0px;
+}
+
+/* containers */
+main .container {
+    padding: 5vh 10px;
+    min-height: 100vh !important;
+    /* border-radius: 20px; */
+}
+
+main #center-diff {
+    padding: 5vh 10px;
+    min-height: 300px !important;
+    /* display: flex;
+    justify-content: center; */
+}
+
+#portfolio{
+    min-height:120vh !important;
+}
+/* ---------------------------- */
+
+/* BUTTONS */
+.btn-link {
+    margin: 10vh 0;
+    text-decoration: none;
+}
+
+.btn-link a {
+    width: 300px;
+    height: 70px;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 800;
+
+    background-color: white;
+    color: black;
+    border: none;
+    outline: none;
+
+    box-shadow: 2px 2px 30px blue;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: 500ms ease-in;
+}
+
+.btn-link a:hover {
+    box-shadow: 2px 2px 20px aqua;
+    background-color: blue;
+    color: white;
+}
+/* ---------------------------- */
+
+/* container1 / section1 */
+/* #inner1 {
+    background-color: blue;
+    color: white;
+
+    /* height: fit-content; 
+    width: 450px;
+    padding: 30px 20px;
+    border-radius: 30px;
+
+    transition: 700ms ease;
+    /* box-shadow: 2px 2px 20px blue; 
+}
+
+#inner1:hover {
+    box-shadow: 2px 2px 20px blue;
+} */
+
+
+/* section3, prices */
+#prices p{
+    text-align:center; 
+}
+/* ============================================ */
+

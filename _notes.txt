@@ -1,0 +1,55 @@
+
+- create a google site?
+- create google site and custom site? (they link to each other?)
+
+- use heroku? to host the app 
+
+Devtech Innovations
+_where vision meets innovation_
+---
+
+IMPORTANT
+- ask team about creating a form to sign up for updates and other stuff 
+
+---
+
+- use z-index style
+
+- copy one of my older websites and start working from there
+- create website templates (simple -> complex)
+- add meta tags to business website, and clients' websites
+
+---
+- maybe include a time-lapse video of the web-dev process to one of the section in the website
+video(s) of 
+	* coding
+	* using figma
+	* testing the website
+	* (<1 minute long)
+	* make the video interesing and memorable
+	* add a voice over?
+
+- MAKE THE BRAND MEMORABLE
+- logo easy to remember (unique)
+- name easy to remember
+
+- compare and adjust to competitors
+
+---
+
+color scheme -> black, white, (blue, pink)
+fonts?
+
+### Design choices
+- Primary colors 
+    * white
+    * black
+    * blue
+
+- Secondary
+    * aqua/ light blue
+    * light grey
+    * yellow
+---
+
+<end>

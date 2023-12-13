@@ -1,0 +1,21 @@
+@media (max-width: 700px) {
+    /* header {
+        font-size: 80px;
+        margin: 0 50px;
+        background-image: url("./images/proj-img1.png");  
+    } */
+
+    header img{
+        width:340px;
+        height:340px;
+    }
+
+    #about{
+        min-height:110vh !important;
+    }
+
+    #portfolio{
+        min-height:220vh !important;
+    }
+    
+}
