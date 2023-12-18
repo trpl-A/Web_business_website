@@ -31,6 +31,8 @@ header img{
 /* MAIN */
 main {
     background-color: lightgrey;
+    line-height: 1.5rem;
+
     /* opacity: 0.5; */
 }
 /* ---------------------------- */
@@ -39,6 +41,7 @@ main h2 {
     font-size: 42px;
     font-weight: 100;
     text-align: center;
+    margin:0;
     margin-top:10px;
 
     /* padding: 5px 0; */
@@ -48,7 +51,7 @@ main h2 {
 
 main h3{
     margin:0;
-    margin-top:40px;
+    margin-top:20px;
 
     text-align: center;
     font-weight: 700;
@@ -58,7 +61,7 @@ main p {
     line-height: 1.3rem;
     font-size: 20px;
     font-weight: 100;
-    margin:10px 0 20px 0;
+    margin:10px 0 30px 0;
 
     font-family: 'Quicksand', sans-serif;
 }
@@ -67,6 +70,64 @@ main .intro{
     text-align: center;
 }
 
+/* ---------------------------- */
+/* sections */
+/* ABOUT */
+#about{
+    min-height:110vh !important;
+}
+main #about p{
+    text-align: center;
+    line-height: 1.5rem;
+}
+#about .vision, 
+#about .mission{
+    color:white;
+    padding:10px;
+    border-radius:20px;
+    margin-bottom:30px;
+    transition:500ms ease;
+
+    /* margin-top:30px; */
+}
+#about .vision{
+    color:black;
+    /* background-color: white;
+    box-shadow:2px 2px 20px black; */
+
+    /* glass effect */
+    /* From https://css.glass */
+    background: rgba(8, 0, 17, 0.07);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    border: 1px solid rgba(8, 0, 17, 0.35);
+}
+#about .vision:hover{
+    background-color: black;
+    color:white;
+}
+
+#about .mission{
+    color:blue;
+    /* background-color: white;
+    box-shadow:2px 2px 20px blue; */
+
+    /* glass effect */
+    /* From https://css.glass */
+    background: rgba(129, 14, 245, 0.07);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    border: 1px solid rgba(129, 14, 245, 0.35);
+
+}
+#about .mission:hover{
+    background-color: blue;
+    color:white;
+}
 /* ---------------------------- */
 
 
@@ -90,7 +151,7 @@ main #center-diff {
 }
 
 #portfolio{
-    min-height:120vh !important;
+    min-height:110vh !important;
 }
 /* ---------------------------- */
 

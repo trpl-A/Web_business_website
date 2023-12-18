@@ -11,11 +11,11 @@
     }
 
     #about{
-        min-height:110vh !important;
+        min-height:130vh !important;
     }
 
     #portfolio{
-        min-height:220vh !important;
+        min-height:170vh !important;
     }
     
 }
